@@ -15,7 +15,6 @@ This is an ML model which uses 6 different algorithms and 4 different evaluation
 3. KNN
 4. Random Forest Classifier 
 5. Naivye Bayes
-6. Gradient Boosting
 
 ### Model Evaluation Methods Used
 
